@@ -3,15 +3,14 @@
 
 #  BMI Calculator
 
-## Our Goal
+This is a project that I developed in the section 11 of Angela Yu's IOS development <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/" target="_blank">course</a>. The goal of this tutorial was to learn more about Optionals, solidy my understanding of the MVC design patter and to introduce the concept of Classes. Therefore, I built a body mass index calculator.
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+## What I built
 
-## What you will create
+https://user-images.githubusercontent.com/61299646/125695121-ce920a08-e17e-4cdc-a1b8-9636a7d5db58.mov
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
 
-## What you will learn
+## What I learned
 
 * How to create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
@@ -19,9 +18,3 @@ By the end of the module, you will have made a Body Mass Index calculator. Based
 * Pass by value vs. pass by reference. 
 * Formatting Strings. 
 * Color literals.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
