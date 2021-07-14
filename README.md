@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  BMI Calculator
 
 This is a project that I developed in the section 11 of Angela Yu's IOS development <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/" target="_blank">course</a>. The goal of this tutorial was to learn more about Optionals, solidy my understanding of the MVC design patter and to introduce the concept of Classes. Therefore, I built a body mass index calculator.
