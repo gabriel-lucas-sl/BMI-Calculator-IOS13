@@ -4,8 +4,13 @@ This is a project that I developed in the section 11 of Angela Yu's IOS developm
 
 ## What I built
 
+### BMI 
+
 https://user-images.githubusercontent.com/61299646/125695121-ce920a08-e17e-4cdc-a1b8-9636a7d5db58.mov
 
+## Challenge
+
+https://user-images.githubusercontent.com/61299646/126058348-2360c2ee-f29b-457a-9baa-f4bc15b4ab6c.mov
 
 ## What I learned
 
